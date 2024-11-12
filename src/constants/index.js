@@ -61,5 +61,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Islamabd, Pakistan ",
   phoneNo: "+92-3346669318 ",
-  email: "usayedpro@gmail.com",
+  email: "usayedafridi2003@gmail.com",
 };
