@@ -13,8 +13,8 @@ export const EXPERIENCES = [
   {
     year: "2024",
     role: "Data Analysis and Scrapping",
-    company: "Client",
-    description: `Led a project for a US client where I scraped data from the top-ranked SPC flooring companies in Florida. Analyzed and extracted key metrics such as traffic and other critical business insights to support strategic decision-making and enhance market understanding.
+    company: "INITIATORZ",
+    description: `Led a project for a client where I scraped data from the top-ranked SPC flooring companies in Florida. Analyzed and extracted key metrics such as traffic and other critical business insights to support strategic decision-making and enhance market understanding.
 
 `,
     technologies: ["Python", "Beautifulsoup"],
@@ -61,5 +61,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Islamabd, Pakistan ",
   phoneNo: "+92-3346669318 ",
-  email: "usayedpro@gmail.com",
+  email: "usayedafridi2003@gmail.com",
 };
