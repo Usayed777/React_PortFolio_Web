@@ -25,7 +25,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Data/Statistical Analysis",
+    title: "Statistical Analysis and Predictive Modeling",
     image: project1,
     description:
       "Increased FIFA player market value prediction by 3.23% (R²: 0.98), reduced error by 73.9%, and identified 76.50% of market value concentrated in 23.90% of elite players through outlier removal and z-score analysis.",
@@ -33,7 +33,7 @@ export const PROJECTS = [
     link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Fifa.ipynb"  
   },
   {
-    title: "Data Analysis/Cleaning",
+    title: "Sales Performance Analysis and Insights",
     image: project2,
     description:
       "Identified key sales drivers behind 28,261.15% April sales growth, uncovered 78.56% sales from top regions, and analyzed cancellation impact revealing 8.80% loss.",
@@ -41,7 +41,7 @@ export const PROJECTS = [
     link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Amazon.ipynb" 
   },
   {
-    title: "Power BI Dashboard",
+    title: "Dynamic Power BI Dashboard",
     image: project3,
     description:
       "Analyzed sales performance with a 0.83% decline in YTD sales and a 4.5% profit increase, revealing a 7.29% drop in quantity sold while maintaining a 5.37% profit margin, enhancing data-driven decision-making.",
@@ -52,7 +52,7 @@ export const PROJECTS = [
     title: "Data Cleaning in SQL Server",
     image: project4,
     description:
-      "Enhanced data accuracy by standardizing formats, resolved missing addresses, and streamlined datasets by updating values and removing redundancies.",
+      "Optimized a real estate dataset by cleaning and structuring key data fields, reducing null values, and improving query efficiency. Standardized addresses, converted date formats, and transformed categorical data.",
     technologies: ["Microsoft SQL Server"],
     link: "https://github.com/Usayed777/PortfolioProjects/blob/main/House-Data_cleaning_project.sq"  
   },
