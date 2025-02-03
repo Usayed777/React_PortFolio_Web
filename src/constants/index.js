@@ -1,20 +1,20 @@
-import project1 from "../assets/projects/amazon.jpg";
-import project2 from "../assets/projects/sql.jpg";
-import project3 from "../assets/projects/fifa.jpg";
-import project4 from "../assets/projects/power.jpg";
+import project1 from "../assets/projects/fifa.jpg";
+import project2 from "../assets/projects/amazon.jpg";
+import project3 from "../assets/projects/power.jpg";
+import project4 from "../assets/projects/sql.jpg";
 
-export const HERO_CONTENT = `I am a dedicated Data Analyst with a strong background in leveraging Python, SQL, Microsoft Power BI, and Excel to deliver actionable insights and drive data-driven decisions. With hands-on experience working with real-time clients, I excel in analyzing complex datasets, creating comprehensive reports, and implementing solutions that address key business challenges. My goal is to use my analytical skills and technical expertise to support business growth and enhance operational efficiency.
+export const HERO_CONTENT = `I’m a data analyst who loves finding hidden insights in data even as a hobby, whether it’s out of curiosity or to help businesses make better decisions. I’m skilled in Python, SQL, Power BI, and Excel, and I focus on spotting trends, solving problems, and providing insights that often go unnoticed. I enjoy taking complex data and making it simple for everyone to understand, so the key metrics are crystal clear.
 
 `;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile Data Analyst with a passion for deriving actionable insights from complex datasets. With experience in Python, SQL, Microsoft Power BI, and Excel, I specialize in creating detailed reports and implementing data-driven solutions that drive business success. My journey in data analytics began with a keen interest in uncovering patterns and trends, and it has evolved into a career where I continuously seek to learn and adapt to new technologies and methodologies. I thrive in dynamic environments and enjoy solving challenging problems to deliver impactful results. Outside of analytics, I stay engaged with emerging tools and techniques and enjoy contributing to data-related projects.`;
+export const ABOUT_TEXT = `I’m a Data Analyst who loves digging into data and uncovering the stories it tells. I’m skilled in Python, SQL, Power BI, and Excel, and I focus on turning complex data into clear insights that drive business success and can be undertsood by everyone. I got into data because I’ve always been a technical person curious about finding patterns and trends in about everything, and now it’s turned into a career where I’m constantly learning and staying on top of new tools and techniques. I enjoy solving tough problems and delivering results that actually make a difference. `;
 
 export const EXPERIENCES = [
   {
     year: "2024",
     role: "Data Analysis and Scrapping",
     company: "INITIATORZ",
-    description: `Led a project for a client where I scraped data from the top-ranked SPC flooring companies in Florida. Analyzed and extracted key metrics such as traffic and other critical business insights to support strategic decision-making and enhance market understanding.
+    description: `Led projects analyzing top companies in industries like SPC flooring, AC filters, and the pet industry to help clients understand the competitive market and start their businesses. Used python to scrape data from websites, examined key metrics like traffic and sales trends, and created reports that provided clear insights, helping guide their market entry decisions.
 
 `,
     technologies: ["Python", "Beautifulsoup"],
@@ -28,38 +28,38 @@ export const PROJECTS = [
     title: "Data/Statistical Analysis",
     image: project1,
     description:
-      "Improved sales forecasting accuracy by 20%, customer satisfaction by 15%, and product tracking through comprehensive data analysis and optimization.",
-    technologies: ["Python", "Numpy", "Pandas", "Matplotlib"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Amazon.ipynb"  
-  },
-  {
-    title: "Data Cleaning in SQL Server",
-    image: project2,
-    description:
-      "Enhanced data accuracy by standardizing formats, resolved missing addresses, and streamlined datasets by updating values and removing redundancies.",
-    technologies: ["Microsoft SQL Server"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/House-Data_cleaning_project.sql" 
-  },
-  {
-    title: "Data Analysis/Cleaning",
-    image: project3,
-    description:
-      "Improved data accuracy, uncovered market insights by analyzing player value and wage, and provided actionable team-building insights through attribute comparisons.",
-    technologies: ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn"],
+      "Increased FIFA player market value prediction by 3.23% (R²: 0.98), reduced error by 73.9%, and identified 76.50% of market value concentrated in 23.90% of elite players through outlier removal and z-score analysis.",
+    technologies: ["Python", "Numpy", "Pandas", "Matplotlib", "Sklearn"],
     link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Fifa.ipynb"  
   },
   {
+    title: "Data Analysis/Cleaning",
+    image: project2,
+    description:
+      "Identified key sales drivers behind 28,261.15% April sales growth, uncovered 78.56% sales from top regions, and analyzed cancellation impact revealing 8.80% loss.",
+    technologies: ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn"],
+    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Amazon.ipynb" 
+  },
+  {
     title: "Power BI Dashboard",
-    image: project4,
+    image: project3,
     description:
       "Analyzed sales performance with a 0.83% decline in YTD sales and a 4.5% profit increase, revealing a 7.29% drop in quantity sold while maintaining a 5.37% profit margin, enhancing data-driven decision-making.",
-    technologies: ["Microsoft Power BI"],
+    technologies: ["Power BI"],
     link: "https://github.com/Usayed777/PortfolioProjects/blob/main/eCommerce.pbix"  
+  },
+  {
+    title: "Data Cleaning in SQL Server",
+    image: project4,
+    description:
+      "Enhanced data accuracy by standardizing formats, resolved missing addresses, and streamlined datasets by updating values and removing redundancies.",
+    technologies: ["Microsoft SQL Server"],
+    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/House-Data_cleaning_project.sq"  
   },
 ];
 
 export const CONTACT = {
-  address: "Islamabd, Pakistan ",
-  phoneNo: "+92-3346669318 ",
+  address: "Jeddah, Saudia Arabia ",
+  phoneNo: "+966-537998748 ",
   email: "usayedafridi2003@gmail.com",
 };
