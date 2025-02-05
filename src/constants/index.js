@@ -54,7 +54,7 @@ export const PROJECTS = [
     description:
       "Optimized a real estate dataset by cleaning and structuring key data fields, reducing null values, and improving query efficiency. Standardized addresses, converted date formats, and transformed categorical data.",
     technologies: ["Microsoft SQL Server"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/House-Data_cleaning_project.sq"  
+    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/House-Data_cleaning_project.sql"  
   },
 ];
 
