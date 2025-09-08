@@ -24,7 +24,7 @@ export const PROJECTS = [
     image: project1,
     description: "Increased FIFA player market value prediction by 3.23% (R²: 0.98), reduced error by 73.9%, and identified 76.50% of market value concentrated in 23.90% of elite players through outlier removal and z-score analysis.",
     technologies: ["Python", "Numpy", "Pandas", "Matplotlib", "Sklearn"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Fifa.ipynb"
+    link: "https://drive.google.com/file/d/1YC7bfU9aHRIg8BmBr9-FrV8qAByNzds9/view?usp=sharing"
   },
   {
     title: "Sales Performance Analysis and Insights",
@@ -50,7 +50,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Jeddah, Saudia Arabia ",
-  phoneNo: "+966-537998748 ",
+  address: "Islamabad, Pakistan ",
+  phoneNo: "+92-3346669318 ",
   email: "usayedafridi2003@gmail.com"
 };
