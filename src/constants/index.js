@@ -38,7 +38,7 @@ export const PROJECTS = [
     image: project3,
     description: "Analyzed sales performance with a 0.83% decline in YTD sales and a 4.5% profit increase, revealing a 7.29% drop in quantity sold while maintaining a 5.37% profit margin, enhancing data-driven decision-making.",
     technologies: ["Power BI"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/eCommerce.pbix"
+    link: "https://drive.google.com/file/d/1Rdex52ElYGAkpNbgsIeDnnmDwynfEPqu/view?usp=sharing"
   },
   {
     title: "Data Cleaning in SQL Server",
