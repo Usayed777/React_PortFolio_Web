@@ -50,7 +50,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Islamabad, Pakistan ",
+  address: "Islamabad, Pakistan",
   phoneNo: "+92-3346669318 ",
   email: "usayedafridi2003@gmail.com"
 };
