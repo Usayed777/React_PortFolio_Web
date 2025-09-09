@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     company: "CarTrust KSA",
     description: `I developed a dynamic pricing dashboard for car analysis, an Engine Power dashboard, and a Top Manufacturers Leaderboard with interactive filters. I also created a Scatter dashboard to compare acceleration and engine power. The full mobile-friendly app, built with Dash and Plotly, was deployed on Render, with DuckDB integration to optimize query speed.`,
     technologies: ["Python", "Dash", "Render", "DuckDb", "Polars", "Pandas", "Plotly"],
-    link: "https://drive.google.com/file/d/1gpH4Vy1Xa9x45j_RxGRn4V8N5lXJ9OjS/view?usp=drive_link"
+    link: "https://drive.google.com/file/d/1gpH4Vy1Xa9x45j_RxGRn4V8N5lXJ9OjS/view?usp=sharing"
   }
 ];
 
@@ -31,7 +31,7 @@ export const PROJECTS = [
     image: project2,
     description: "Identified key sales drivers behind 28,261.15% April sales growth, uncovered 78.56% sales from top regions, and analyzed cancellation impact revealing 8.80% loss.",
     technologies: ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn"],
-    link: "https://github.com/Usayed777/PortfolioProjects/blob/main/Amazon.ipynb"
+    link: "https://drive.google.com/file/d/1_Nkc83yc1zgRrpGIMbiiObcATJlPGbYj/view?usp=sharing"
   },
   {
     title: "Dynamic Power BI Dashboard",
